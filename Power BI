@@ -1,0 +1,72 @@
+HR_Dashboard.pbix
+📄 PAGE 1: HR OVERVIEW
+ ---------------------------------------------------------
+| HR OVERVIEW                                            |
+|---------------------------------------------------------|
+| [Total Employees] [Active Employees] [Attrition] [Avg] |
+|---------------------------------------------------------|
+|                                                         |
+| Employees by Department        | Employee Status        |
+| (Bar Chart)                    | (Donut Chart)          |
+|                                |                        |
+|---------------------------------------------------------|
+| Department Slicer   Status Slicer                       |
+ ---------------------------------------------------------
+
+🔹 Visuals to Use
+
+4 Card visuals (Top)
+
+1 Bar Chart
+
+1 Donut Chart
+
+2 Slicers
+
+📄 PAGE 2: EMPLOYEE PERFORMANCE ANALYSIS
+ ---------------------------------------------------------
+| EMPLOYEE PERFORMANCE ANALYSIS                          |
+|---------------------------------------------------------|
+| Avg Performance by Dept (Column Chart)                  |
+|---------------------------------------------------------|
+|                                                         |
+| Employee Performance Table                              |
+| Name | Dept | Role | Rating                             |
+|                                                         |
+|---------------------------------------------------------|
+| Department Slicer   Year Slicer                          |
+ ---------------------------------------------------------
+
+🔹 Visuals
+
+Clustered Column Chart
+
+Table
+
+Slicers
+
+📄 PAGE 3: RECRUITMENT INSIGHTS
+ ---------------------------------------------------------
+| RECRUITMENT INSIGHTS                                    |
+|---------------------------------------------------------|
+| Recruitment Status (Donut Chart)                        |
+|---------------------------------------------------------|
+|                                                         |
+| Hires by Department (Bar Chart)                         |
+|                                                         |
+|---------------------------------------------------------|
+| Department Slicer                                       |
+ ---------------------------------------------------------
+
+🎨 DESIGN SETTINGS (USE THIS EXACTLY)
+Theme
+
+Background: White / Light grey
+
+Accent: Blue
+
+Font: Segoe UI
+Alignment
+Equal spacing
+Snap to grid ON
+Same height for KPI cards
